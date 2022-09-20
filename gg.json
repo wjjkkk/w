@@ -72,16 +72,68 @@
 		"filterable": 1,
 		"ext": "https://raw.kgithub.com/wjjkkk/w/main/bilibili.json"
 	}, 
- {    
-      "key": "图图",
-      "name": "图图",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1.
-      
-    },	
+	
+ {
+
+            "key": "ysgc",
+
+            "name": "影视工厂(XB)",
+
+            "type": 3,
+
+            "api": "csp_XBiubiu",
+
+            "searchable": 1,
+
+            "quickSearch": 1,
+
+            "filterable": 0,
+
+            "ext": "https://raw.kgithub.com/wjjkkk/w/main/ysgc.json"
+
+        },
+
+        {
+
+            "key": "瓜皮",
+
+            "name": "瓜皮(XB)",
+
+            "type":3,
+
+            "api":"csp_XBiubiu",
+
+            "searchable":1,
+
+            "quickSearch":1,
+
+            "filterable":0,
+
+            "ext":"https://raw.kgithub.com/wjjkkk/w/main/gptv.json"
+
+        },
+
+        {
+
+            "key": "口袋影院",
+
+            "name": "口袋(XB)",
+
+            "type": 3,
+
+            "api": "csp_XBiubiu",
+
+            "searchable": 1,
+
+            "quickSearch": 1,
+
+            "filterable": 0,
+
+            "ext": "https://raw.kgithub.com/wjjkkk/w/main/kdyy.json"
+
+        },
+	
+	
 
 {"key":"哔滴影视","name":"哔滴影视(爬虫)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
