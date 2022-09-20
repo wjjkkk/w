@@ -343,7 +343,46 @@
 		"ext": "https://raw.kgithub.com/wjjkkk/w/main/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.json"
 	},  
 
-	{
+	
+
+      "key": "尘云影视",
+
+      "name": "☁尘云影视(优)",
+
+      "type": 3,
+
+      "api": "csp_AppYs",
+
+      "searchable": 0,
+
+      "quickSearch": 0,
+
+      "filterable": 0,
+
+      "ext": "http://v.i7yc.cn/api.php/v1.vod"
+
+    },
+
+    {
+
+      "key": "万能影院",
+
+      "name": "💳万能影院(优)",
+
+      "type": 3,
+
+      "api": "csp_AppYsV2",
+
+      "searchable": 0,
+
+      "quickSearch": 0,
+
+      "filterable": 0,
+
+      "ext": "http://app.wnvod.net/lvdou_api.php/v1.vod"
+
+    },
+{
       "key": "爱酷",
       "name": "🍀爱酷〔V2〕",
       "type": 3,
@@ -435,7 +474,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "3781469b13074e4cac1e0e7113e4fa20"
+		"ext": "c15b21cb501d4d85a4c784566e36ae0e"
 	}, 
 {"key":"FindZY","name":"💻找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "3781469b13074e4cac1e0e7113e4fa20"},
 {
@@ -446,7 +485,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "3781469b13074e4cac1e0e7113e4fa20"
+		"ext": "c15b21cb501d4d85a4c784566e36ae0e"
 	},  
      
 
@@ -459,7 +498,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 0,
-		"ext": "3781469b13074e4cac1e0e7113e4fa20"
+		"ext": "c15b21cb501d4d85a4c784566e36ae0e"
 	}],
 	"parses": [{
 		"name": "解析聚合",
@@ -525,9 +564,17 @@
         ]}
       },
 
- 
+ {"name": "rongxing",      "type": 1,      "url": "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url=",      "ext": {        "flag": ["rx","ltnb","renrenmi","rongxing","bilibili","哔哩哔哩","哔哩","youku","优酷","qiyi","爱奇艺","奇艺","qq","腾讯","mgtv","芒果","sohu","搜狐","letv","乐视","xigua","CL4K","西瓜"]}},
 
+  {
 
+      "name": "GGTV",
+
+      "type": 1,
+
+      "url": "https://play.fuqizhishi.com/jx/API.php?appkey\\u003dxiaobai666\\u0026url\\u003d"
+
+    },
 
 
    {
