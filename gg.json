@@ -343,9 +343,7 @@
 		"ext": "https://raw.kgithub.com/wjjkkk/w/main/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.json"
 	},  
 
-{
-
-    "key":"dr_玩偶姐姐",
+{  "key":"dr_玩偶姐姐",
 
     "name":"玩偶姐姐(道长)",
 
@@ -379,7 +377,25 @@
 
 	
 
-      "key": "尘云影视",
+ 
+
+{
+
+    "key":"dr_玩偶姐姐",
+
+    "name":"玩偶姐姐(道长)",
+
+    "type":1,
+
+    "api":"http://cms.nokia.press/vod?rule=玩偶姐姐",
+
+    "searchable": 0,
+
+    "quickSearch": 0,
+
+    "filterable": 0
+
+},     "key": "尘云影视",
 
       "name": "☁尘云影视(优)",
 
