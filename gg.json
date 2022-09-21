@@ -318,16 +318,6 @@
     
 {"key":"csp_AppYsV2","name":"🍹不明","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"}, 
 
-
-	   {
-		"key": "csp_DiDuan",
-		"name": "⤵️低端影视(SP)",
-		"type": 3,
-		"api": "csp_Ddrk",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	}, 
   {
 		"key": "诺讯资源",
 		"name": "📌诺讯资源(官)",
