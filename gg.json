@@ -171,7 +171,26 @@
 	},
 
   
+ {
 
+      "key": "py_cyys",
+
+      "name": "🚝创艺影视(py)",
+
+      "type": 3,
+
+      "api": "py_cyys",
+
+      "searchable": 0,
+
+      "quickSearch": 0,
+
+      "filterable": 1,
+
+      "ext": "https://raw.kgithub.com/wjjkkk/w/main/py_cyys.py"
+
+    },
+  
  
 
 
