@@ -224,15 +224,6 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1
-	}, 
-{
-		"key": "Ikan",
-		"name": "💘爱看(SP)",
-		"type": 3,
-		"api": "csp_IKan",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
 	}, {
 		"key": "天堂资源",
 		"name": "📌天堂资源(官)",
@@ -363,16 +354,6 @@
 		"searchable": 1,
 		"quickSearch": 1
 	},  
-
-    {
-		"key": "小熊",
-		"name": "🧸小熊TV(SP)",
-		"type": 3,
-		"api": "csp_Xxys",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	},
      
  {
    "key":"csp_appysv2_萌蛋蛋",
