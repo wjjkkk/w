@@ -21,15 +21,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1
-	},       {
-		"key": "神马影院",
-		"name": "🐎神马影院(SP)",
-		"type": 3,
-		"api": "csp_Smdyy",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	},
+	},       
 
  
 
@@ -693,7 +685,8 @@
 	},
      	  {"key":"pwd_ASMR","name":"🐾ASMR(优)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":0,"quickSearch":1},
    {"key":"pwd_工厂资源","name":"🐾工厂","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml","searchable":0,"quickSearch":0},
- {"key":"pwd_袜子","name":"🐾袜子","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0},
+ {"key":"pwd_袜子","name":"🐾袜子","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0},
+
 {"key": "pwd_xf_分类","name": "🌎大杂烩(墙外)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "https://agit.ai/xiaohewanwan/TVBox-1/raw/branch/main/hh.json"},
 	{
