@@ -317,7 +317,7 @@
 \"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",
 \"分类url\":\"https://www.nkdyw.com/show/{cateId}--------{catePg}---.html\"}"
     },
-{"key":"csp_DiDuan","name":"🛣低端影视(sp)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},{"key":"csp_SP293","name":"🎲293影视(sp)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},{"key":"csp_NianYing","name":"🐮NBhut(sp)","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_DiDuan","name":"🛣低端影视(sp)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},{"key":"csp_NianYing","name":"🐮NBhut(sp)","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🖼图图影视(sp)","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
   {
