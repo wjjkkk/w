@@ -74,15 +74,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://raw.kgithub.com/wjjkkk/w/main/csp_Nmys.json"
-        },   {
-		"key": "Kuaikan",
-		"name": "👀快看",
-		"type": 3,
-		"api": "csp_Kuaikan",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	},    
+        },     
 	{
 	"key": "Lezhu_spider",
 	"name": "🐷乐猪影视(SP)",
