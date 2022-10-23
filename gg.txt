@@ -127,16 +127,6 @@
       "filterable": 0,
       "ext": "{\"起始页\": \"2\",\"线路数组\": \"more text-muted pull-right&&</div>\",\"线路标题\": \"title\\\">&&<\",\"播放数组\":\"stui-content__playlist playlink clearfix&&/ul>\",\"播放链接\": \"href='&&'\",\"分类\":\"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"分类url\":\"http://www.40yb.com/{cateId}/index{catePg}.html\"}"
     },
-    {
-      "key": "csp_xBPQ_疯狗影视",
-      "name": "xbpq|疯狗影视",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "{\"播放数组\": \"list-unstyled row text-center ff-playurl-line ff-playurl&&</ul>\",\"分类url\":\"https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html\",\"搜索url\": \"https://m.fenggoudy3.com/vod-search-wd-{wd}-p-{pg}.html\",\"搜索模式\": \"1\",\"搜索数组\": \"col-xs-4&&</li>\"}"
-    },
   {"key": "csp_xBPQ_酷蚂蚁影视",
 "name": "蚂蚁影视",
 "type": 3,
