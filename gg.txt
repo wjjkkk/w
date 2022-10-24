@@ -164,7 +164,16 @@
             "filterable": 0,
             "ext": "{\n\"分类\":\"电视剧$tv#动漫$dm#电影$dy#综艺$zy\",\n\"分类url\":\"https://www.ksksl.com/show/{cateId}/page/{catePg}.html\"\n}"
         },
-        {
+       {
+            "key": "csp_xBPQ_hkan",
+            "name": "xbpq|好看影视",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://raw.kgithub.com/wjjkkk/w/main/hkan.json"
+        },    {
             "key": "csp_XBiu_追剧达人",
             "name": "追剧人影视",
             "type": 3,
