@@ -1,5 +1,5 @@
 {
-    "spider": "https://raw.kgithub.com/wjjkkk/w/main/1.png;md5;0ea75abd574df7f830bcb629b13772be",
+    "spider": "https://raw.kgithub.com/wjjkkk/w/main/1.png;md5;945082a7b567544bcfd4c466e8dea0d6",
     "pwd": "cf67355a3333e6e143439161adc2d82e",
     "wallpaper": "http://刚刚.live/图",
     "lives": [
