@@ -84,7 +84,7 @@
             "filterable": 0,
             "ext": "{ \n\"直接播放\":\"1\",\n\"分类\":\"华语高清$1#影视MV$5#现场MV$4\",\n\"分类url\":\"https://www.kuqimv.com/play/{cateId}_{catePg}.html\"}"
         },
-        {
+      {"key": "csp_XYQ_lu1","name": "️▎电视直播 ▎","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://47.242.90.42:8888/down/OMDxA2nkhIWy","jar":"http://47.242.90.42:8888/down/M23BLtdPg49m"},  {
             "key": "csp_biubiu_小说",
             "name": "👿听小说吧测试源",
             "type": 3,
