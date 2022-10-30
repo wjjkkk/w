@@ -887,7 +887,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "{\n\n\"数组\": \"class=\\\"pack-ykpack\\\">&&class=\\\"pack-ykpack\\\">\",\n\"标题\":\"title=\\\"&&\\\"[替换:23影视网-2022最新电影播放,在线电影,免费在线观看,免费电影网>>空]\",\n\n\"分类\":\"国产电视剧$13#电视剧$2#电影$1#动漫$4#综艺$3\",\n\n\"分类url\":\"https://www.23wm.net/vodshow/id/{cateId}/page/{catePg}.html\"\n}"
+            "ext": "{\n\n\"数组\": \"class=\\\"pack-ykpack\\\">&&class=\\\"pack-ykpack\\\">\",\n\"标题\":\"title=\\\"&&\\\"[替换:23影视网-2022最新电影播放,在线电影,免费在线观看,免费电影网>>空]\",\n\n\"分类\":\"国产电视剧$13#电视剧$2#电影$1#动漫$4#综艺$3\",\n\n\"分类url\":\"https://222.186.150.32/vodshow/id/{cateId}/page/{catePg}.html\"\n}"
         },
         {
             "key": "xf_heihei",
